@@ -18,3 +18,5 @@ pip install matplotlib.pyplot
         python klasifikasiSVM.py
         python tryRecordSound3.py
         ```
+
+Referensi lebihnya [disini](https://librosa.github.io/librosa/generated/librosa.feature.mfcc.html)
